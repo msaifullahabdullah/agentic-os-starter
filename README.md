@@ -21,7 +21,14 @@ It interviews you, fills itself in, and runs on your own accounts. Nobody else c
 
 ---
 
-## Set up in 3 minutes
+## Easiest: let Claude do it
+
+Download **[INSTALL-WITH-CLAUDE.md](INSTALL-WITH-CLAUDE.md)**, give it to Claude and say **"Set this up for me."**
+In the Claude desktop app's **Code** tab, Claude does almost everything itself. You just sign in twice and choose a password.
+
+---
+
+## Or set up by hand in 3 minutes
 
 **1. Copy the brain**
 Click **[Use this template](https://github.com/msaifullahabdullah/agentic-os-starter/generate)**. Name it **my-brain**, choose **Private**, click **Create repository**.
