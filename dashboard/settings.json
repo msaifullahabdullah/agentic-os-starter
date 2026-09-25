@@ -1,0 +1,16 @@
+{
+  "name": "",
+  "timezone": "",
+  "latitude": null,
+  "longitude": null,
+  "prayer_times": false,
+  "prayer_method": { "fajr": 18, "isha": 17, "asr": "shafi" },
+  "wake": "07:00",
+  "sleep": "23:00",
+  "goal": "",
+  "countdown": null,
+  "progress": [],
+  "daily_floor": [],
+  "deals": [],
+  "fine": { "on": false, "amount": 0, "currency": "", "reasons": ["Ill", "Family", "Clash"] }
+}

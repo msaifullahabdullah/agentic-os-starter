@@ -1,0 +1,19 @@
+{
+  // Your brain connector. The deploy page asks you for the values below.
+  "name": "my-brain",
+  "main": "worker.js",
+  "compatibility_date": "2025-09-01",
+  "preview_urls": false,
+  "observability": { "enabled": true },
+  "vars": {
+    // Your GitHub username.
+    "REPO_OWNER": "your-github-username",
+    // The name of your brain repository.
+    "REPO_NAME": "my-brain",
+    "REPO_BRANCH": "main",
+    // Your first name, shown on the sign in page.
+    "BRAIN_NAME": ""
+  },
+  // Sign in sessions. Created for you automatically on the first deploy.
+  "kv_namespaces": [{ "binding": "OAUTH" }]
+}

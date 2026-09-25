@@ -1,0 +1,5 @@
+# The deploy page asks you for these two. They are stored as secrets, never in your code.
+# A GitHub fine grained token with Contents read and write on your brain repository only.
+GITHUB_TOKEN=
+# The password that opens your brain. At least 12 characters. A short sentence is good.
+BRAIN_PASSWORD=
